@@ -145,7 +145,7 @@ toastr.info(`The right word was: "${rightGuessString}"`)
 
 function shadeKeyBoard(letter, color) {
 for (const elem of document.getElementsByClassName("keyboard-button")) {
-    if (elem.textContent === letter) {
+    if (elem.textContent.toUpperCase() === letter) {
         let oldColor = elem.style.backgroundColor
         if (oldColor === 'green') {
             return
