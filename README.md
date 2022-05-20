@@ -1,7 +1,7 @@
 # Airportle
 Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 letter airport code of an Internation airport in the United States.
 
-**Link to project:**
+**Link to project:** https://airportle.netlify.app
 
 <img src="assets/jeopardy.gif"  alt="Jeopardy game"/>
 
@@ -11,7 +11,7 @@ Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 lette
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-## Optimizations
+## Upcomg features
 
 - Add international airpors from around the world
 - Add ability to ask for a hint at the cost of an attempt
