@@ -12,12 +12,12 @@ Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 lette
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
 ## Optimizations
-#Upcoming features
+
 - Add international airpors from around the world
 - Add ability to ask for a hint at the cost of an attempt
 - Add a 'new game' button so the user can play as many rounds as they like 
 - Implement a scoring system using local storage to keep a record of the users stats
-- 
+
 ## Lessons Learned:
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
