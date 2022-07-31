@@ -1,5 +1,5 @@
 # Airportle
-Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 letter airport code of an Internation airport in the United States.
+Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 letter airport code of an International airport in the United States.
 
 **Link to project:** https://airportle.netlify.app
 
