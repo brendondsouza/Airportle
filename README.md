@@ -3,13 +3,15 @@ Airportle is a spin on the trending game, Wordle! The aim is to deduce a 3 lette
 
 **Link to project:** https://airportle.netlify.app
 
-<img src="assets/jeopardy.gif"  alt="Jeopardy game"/>
+<img src="https://user-images.githubusercontent.com/101214978/184557262-2b6c9107-7337-456b-a455-7bfd8fccbff0.png" height="425" />
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
 
 Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+The word bank contains only major U.S.A. airports and have been taken from https://www.nationsonline.org/oneworld/major_US_airports.htm
 
 ## Upcoming features
 
