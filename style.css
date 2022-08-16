@@ -33,7 +33,7 @@ h2{
   justify-content: center;
   align-items: center;
   text-transform: uppercase;
-  background-color: red;
+  /* background-color: red; */
 }
 
 .filled-box {
@@ -60,6 +60,8 @@ h2{
 }
 
 .keyboard-button {
+  background-color: #EBEBEB;
+  color: black;
   font-size: 1rem;
   font-weight: 700;
   padding: 0.5rem;
@@ -81,13 +83,11 @@ h2{
   and (min-width: 321px) 
   } */
   
-  @media all and (max-width: 425px) {
+  /*
+  @media (min-width: 320px) and (max-width: 425px) {
     .keyboard-button {
-      font-size: 0.9rem;
-    font-weight: 700;
-    padding: 0.32rem;
-      margin: 0 2px;
-      cursor: pointer;
-      text-transform: uppercase;
+      font-size: 1rem;
+      padding: 0.32rem;
     }
-    }
+  }
+    */
